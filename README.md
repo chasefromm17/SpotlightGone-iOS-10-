@@ -1,4 +1,6 @@
-Will release SpotlightGone for iOS 10 source code here soon... it just takes time. Currently it is unknown at all if SpotlightGone10 will work on 32-bit (iPhone 5, iPhone 5C or iPad 4) on any iOS 10 version. The SpotlightGone for iOS 10 .deb should be available too for installation via iFile/Filza, AFC2, and SSH install as well and in this repository will be posted in the /bin directory.
+# SpotlightGone for iOS 10
+
+NOTICE: I will release SpotlightGone for iOS 10 source code here soon... it just takes time. Currently it is unknown at all if SpotlightGone10 will work on 32-bit (iPhone 5, iPhone 5C or iPad 4) on any iOS 10 version. The SpotlightGone for iOS 10 .deb should be available too for installation via iFile/Filza, AFC2, and SSH install as well and in this repository will be posted in the /bin directory.
 
 **Description**: SpotlightGone hides both the widgets view and the Spotlight page from your homescreen on your iOS 10 device.
 
