@@ -9,3 +9,5 @@ NOTICE/SMALL DISCLAIMER: I will release SpotlightGone for iOS 10 source code soo
 **License**: Licensed under the MIT license.
 
 **Credits**: Credits to me for making this. You may reproduce and reuse this software, but please credit me if you can for making this.
+
+**Repo for installation and download**: You will have to wait for it to be available for ARM32-bit devices.
